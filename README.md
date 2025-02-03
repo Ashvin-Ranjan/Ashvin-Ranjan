@@ -3,9 +3,9 @@ I am a Computer Science @ The University of Washington expected to graduate in 2
 Current Interests: Computational Linguistics with focus in Semantic Typology and NLP Architecture.
 
 Other Focuses:
-- Frontend development with Next.js.
-- Backend development with TypeScript, Go, and Rust.
-- Language design.
+- Frontend development with Next.js
+- Backend development with TypeScript, Go, and Rust
+- Language design
 
 Notable projects are pinned below.
 
