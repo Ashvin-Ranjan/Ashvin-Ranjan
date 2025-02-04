@@ -1,4 +1,4 @@
-I am a Computer Science @ The University of Washington expected to graduate in 2027.
+I am a Computer Science Student @ The University of Washington expected to graduate in 2027.
 
 Current Interests: Computational Linguistics with focus in Semantic Typology and NLP Architecture.
 
